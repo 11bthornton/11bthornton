@@ -1,6 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]
-
-[![Linkedin Badge](https://img.shields.io/badge/-yourlinkedinusername-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)](https://www.linkedin.com/in/yourlinkedinusername/) [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername/?tab=follow) [![Twitter Badge](https://img.shields.io/badge/-yourtwitterusername-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterusername)](https://twitter.com/yourtwitterusername)
+# 👋 Heu, I'm Ben
 
 ## 🎓 Who Am I?
 
@@ -13,21 +11,29 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 - **Java** ☕
 - **PHP** 🐘
 - **Haskell** λ
+- **Python** 🐍
+- **R for Data Analysis** 📊
+- **SQL** 🛢️
+- **JavaScript**
 
 ### Frameworks & Libraries
 - React.js ⚛️
-- Spring Boot 🌱
 - Laravel 🌟
+- **Database Management**: MySQL, PostgreSQL
+- Pandas 🐼 (Python)
+- ggplot2 📈 (R)
+- **Networking & Asynchronous Code** 🌐⚙️
+- **Machine Learning**: scikit-learn (Python) 🤖, caret (R) 📚
+- **Time Series Analysis**: Matrix Profiles ⏳
 
 ### Tools & Technologies
 - **Web Tools** 🌐: HTML, CSS, JavaScript
 - **Front-end Design Tools**: Just getting my hands on Figma 👨‍🎨
-
+- **RESTful APIs** 🌐🔗
+  
 ## 💼 Professional Experience
 
-- **Software Developer** at XYZ Corp 🏢
-- **Full-Stack Developer** at ABC Tech 🌐
-- **Intern** at DEF Solutions 👨‍💻
+- **Backend Web Development** - work experience in Mainz, Germany at age 17
 
 ## 📚 What I'm Learning
 
