@@ -2,7 +2,7 @@
 
 ## 🎓 Who Am I?
 
-I am a first class honours Master of Engineering (MEng) Computer Science graduate 🎉, passionate about making the web a better place. I specialize in full-stack development and love to work with diverse sets of technologies.
+I am a first class honours Master of Engineering (MEng) Computer Science graduate 🎉. I specialize in full-stack development and love to work with diverse sets of technologies.
 
 ## 🛠️ Skills & Technologies
 
@@ -60,6 +60,3 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 ## 🤝 How to Contribute
 
 I love collaborating on open-source projects. Feel free to open issues or submit PRs if you think something could be better 👍.
-
----
-⭐️ From [yourusername](https://github.com/yourusername)
