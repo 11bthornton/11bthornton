@@ -6,6 +6,16 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 
 ## 🛠️ Skills & Technologies
 
+### Rust Projects
+- [F1 Game Telemetry Library](https://github.com/11bthornton/f1-game-library) 🏎️: A Rust library for deserializing multiple versions of F1 Video game telemetry data. Supports both synchronous and asynchronous compilation options.
+- [Twitter for Rust](https://github.com/11bthornton/twitter-for-rust) 🐦: A Rust library for the Twitter API (written before Elon Musk got involved).
+- [Discord Bot in Rust](https://github.com/11bthornton/discord_bot_rust) 🤖: A functional Discord bot written in Rust.
+
+### Other Projects
+- [Fast-Updating React Frontend Using Tauri](https://github.com/11bthornton/f1-telemetry-react) ⚛️🏎️: A high-performance frontend built with React and Tauri, leveraging my F1 Game Telemetry Library.
+- [Genetic Algorithms Experiment](https://github.com/11bthornton/methinks-it-is-a-weasel) 🧬: A project exploring genetic algorithms, inspired by Richard Dawkins' "Methinks it is like a weasel" experiment.
+
+
 ### Programming Languages
 - **Rust** 🦀
 - **Java** ☕
