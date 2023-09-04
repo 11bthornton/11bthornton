@@ -1,4 +1,4 @@
-# 👋 Heu, I'm Ben
+# 👋 Hey, I'm Ben
 
 ## 🎓 Who Am I?
 
