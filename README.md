@@ -2,7 +2,7 @@
 
 ## 🎓 Who Am I?
 
-I am a first class honours Master of Engineering (MEng) Computer Science graduate 🎉. I specialize in full-stack development and love to work with diverse sets of technologies.
+I am a first class honours Master of Engineering (MEng) Computer Science graduate from the University of Southampton (2022) 🎉. I specialize in full-stack development and love to work with diverse sets of technologies.
 
 ## 🛠️ Skills & Technologies
 
