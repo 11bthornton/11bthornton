@@ -52,10 +52,8 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 
 ## 📬 Get in Touch
 
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/yourlinkedinusername/)
-- Twitter: [@yourtwitterusername](https://twitter.com/yourtwitterusername)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [11bthornton@gmail.com](mailto:11bthornton@gmail.com)
+- GitHub: [11bthornton](https://github.com/11bthornton)
 
 ## 🤝 How to Contribute
 
