@@ -7,7 +7,7 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 ## 🛠️ Skills & Technologies
 
 ### Rust Projects
-- [F1 Game Telemetry Library](https://github.com/11bthornton/f1-game-library) 🏎️: A Rust library for deserializing multiple versions of F1 Video game telemetry data. Supports both synchronous and asynchronous compilation options.
+- [F1 Game Telemetry Library](https://github.com/11bthornton/f1-game-library) 🏎️: A Rust library for deserializing multiple versions of F1 Video game telemetry data. Supports both synchronous and asynchronous compilation options. I utilise 
 - [Twitter for Rust](https://github.com/11bthornton/twitter-for-rust) 🐦: A Rust library for the Twitter API (written before Elon Musk got involved).
 - [Discord Bot in Rust](https://github.com/11bthornton/discord_bot_rust) 🤖: A functional Discord bot written in Rust.
 
@@ -41,6 +41,8 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 - **Web Tools** 🌐: HTML, CSS, JavaScript
 - **Front-end Design Tools**: Just getting my hands on Figma 👨‍🎨
 - **RESTful APIs** 🌐🔗
+- **GIT** (obviously), I'm also familiar with using **workflows** and **hooks**. My telemetry dashboard triggers a build workflow in order to create releases to make installers available to users.
+- **Unit Testing Experience**
   
 ## 💼 Professional Experience
 
