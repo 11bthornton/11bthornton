@@ -13,6 +13,7 @@ I am a first class honours Master of Engineering (MEng) Computer Science graduat
 
 ### Other Projects
 - [Fast-Updating React Frontend Using Tauri](https://github.com/11bthornton/f1-telemetry-react) ⚛️🏎️: A high-performance frontend built with React and Tauri, leveraging my F1 Game Telemetry Library.
+  ![F1 Data Drive - React Telemetry Dashboard with Rust Backend](https://raw.githubusercontent.com/11bthornton/11bthornton/main/f1-data-drive.jpg)
 - [Genetic Algorithms Experiment](https://github.com/11bthornton/methinks-it-is-a-weasel) 🧬: A project exploring genetic algorithms, inspired by Richard Dawkins' "Methinks it is like a weasel" experiment.
 
 
