@@ -2,9 +2,11 @@
 
 Hi, I'm Ben — a software engineer with an MEng in Computer Science from the University of Southampton (First Class Honours, 2022). I work primarily with Rust, and I'm especially interested in systems programming, concurrency, and programming language theory.
 
+Please see my [blog](11bthornton.github.io) for general musings on stuff I find interesting and write-ups of my various projects!
+
 ## Projects
 
-### [F1 Telemetry](https://github.com/11bthornton/f1-telemetry)
+### [F1 Telemetry](https://github.com/11bthornton/f1-game-library-models-25)
 A Rust library and GUI application for deserializing and visualizing live UDP telemetry from Codemasters' F1 games. Designed for performance and extensibility.
 
 ### [Contributions to Blazorise](https://github.com/Megabit/Blazorise)
